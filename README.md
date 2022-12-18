@@ -1,1 +1,1 @@
-# progressiveTextEditorApp
+# Text Editor Starter Code
